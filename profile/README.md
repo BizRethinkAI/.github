@@ -32,7 +32,7 @@ All repositories follow a consistent naming convention:
 
 | Prefix | Purpose | Example |
 |--------|---------|---------|
-| `client-` | Client-facing applications | `client-circularpay-platform` |
+| `client-` | Client-facing applications | `client-circular-payments-platform` |
 | `internal-` | BizRethink AI's own tools | `internal-bizrethink-platform` |
 | `infra-` | Infrastructure & DevOps | `infra-gitops` |
 | `template-` | Reusable starter templates | *(future use)* |
@@ -55,8 +55,8 @@ All repositories follow a consistent naming convention:
 
 | Repository | Stack | Description |
 |------------|-------|-------------|
-| `client-circularpay-platform` | Next.js, Supabase, Twilio | MCA portfolio management with batch settlement and collections |
-| `client-circularpay-web` | Next.js, Framer Motion | CircularPay marketing website |
+| `client-circular-payments-platform` | Next.js, Supabase, Twilio | MCA portfolio management with batch settlement and collections |
+| `client-circular-pay-web` | Next.js, Framer Motion | CircularPay marketing website |
 | `client-fundedin24-app` | Next.js, Plaid, Gemini AI | AI-powered payment application with intelligent transaction analysis |
 | `client-fundedin24-ios` | Swift, Xcode | Native iOS app for the FundedIn24 funding platform |
 | `client-readystudy-platform` | Next.js, PostgreSQL, Gemini AI | Adaptive SAT/ACT prep with AI tutoring and mastery tracking |
